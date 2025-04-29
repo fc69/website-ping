@@ -1,5 +1,5 @@
 name = "website-ping"
 type = "javascript"
-account_id = "76e8c84aba5c931825f41399c4ec69429c925"        # Replace with real value from your Cloudflare dashboard
+account_id = "3af77227a317700d650391458ec603c8"        # Replace with real value from your Cloudflare dashboard
 workers_dev = true
 main = "src/index.js"                      # This is your Worker code file

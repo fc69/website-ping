@@ -2,3 +2,4 @@ name = "website-ping"
 account_id = "3af77227a317700d650391458ec603c8"        # Replace with real value from your Cloudflare dashboard
 workers_dev = true
 main = "src/index.js"                      # This is your Worker code file
+compatibility_date = "2025-04-29"
